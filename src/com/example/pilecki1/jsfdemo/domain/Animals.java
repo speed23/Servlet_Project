@@ -31,6 +31,10 @@ public double age()
 	return age;
 }
 
+public String getName()
+{
+	return name;
+}
 
 public KindOfAnimals kind()
 {
